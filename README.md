@@ -1,6 +1,6 @@
 ### Hi there, here is a brief introduction about me: 👋
 
-- 🔭 I’m currently working on a simple program that is able to help intraday trading faster such as calculating .
+- 🔭 I’m currently looking for a Quantitative Analyst/Trading job around UK.
 - I run a small business where I do technical analysis and provide FREE SIGNAL CALLS on the FOREX and cryptocurrencies market.
 - 🌱 I’m currently learning Python framework called Tensorflow.
 - Learnt C, Java, and MATLAB in University of Nottingham.  The following languages I learnt myself during free time: Basic HTML, CSS, and Python.
