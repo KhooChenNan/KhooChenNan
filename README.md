@@ -1,8 +1,9 @@
-### Hi there, here is a brief introduction about me: 👋
-
 **ALL OF MY REPOSITORIES ARE PRIVATE SO IF YOU CAN'T SEE, PLEASE SEND ME A REQUEST THROUGH MY EMAIL**
-Email: harrykhoo2@gmail.com
-Alternate: aequitasfx@gmail.com
+
+- Email: harrykhoo2@gmail.com
+- Alternate: aequitasfx@gmail.com
+
+### Hi there, here is a brief introduction about me: 👋
 
 - 🔭 I’m currently looking for a Quantitative Analyst/Trading job around UK.
 - I run a small business where I do technical analysis and provide FREE SIGNAL CALLS on the FOREX and cryptocurrencies market.
