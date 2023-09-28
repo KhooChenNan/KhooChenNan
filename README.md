@@ -8,7 +8,7 @@
 Graduated BSc. Hons. Computer Science with Artificial Intelligence from University of Nottingham, United Kingdom.
 Accredited by the British Computer Society (BCS).
 
-- 🔭 I’m currently looking for a Quant Trader/Developer.
+- 🔭 I’m currently looking for a Quant Trader/Developer/Analyst position.
 - 👯 I’m looking to collaborate with any programmers interested in Finance.
 - 💬 Open for discussions about business ideas.
 - 📫 How to reach me: [Instagram] (https://www.instagram.com/khoochennan/) [LinkedIn] (https://www.linkedin.com/in/khoo-chen-nan-928b6a94)
